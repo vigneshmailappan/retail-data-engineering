@@ -1,6 +1,8 @@
 # retail-data-engineering
 This repository demonstrates a full-stack data engineering workflow for a hybrid retail business (ecommerce + physical stores), focusing on mock data generation, data transformation, and cloud-native orchestration using Azure services.
 
+## mock-data-plan
+
 Generating mock data for below tables using pyspark, Will data quality noises which we are going to clean later in the project
 
 | **stores**        | **inventory**       | **employees**       | **products**        | **products_updates** | **customers**        |
